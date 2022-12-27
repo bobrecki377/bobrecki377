@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 bobrecki377.github.io
+https://github.com/openai/point-e
