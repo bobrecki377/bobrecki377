@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-bobrecki377.github.io
-https://github.com/openai/point-e
-https://paperswithcode.com/paper/point-e-a-system-for-generating-3d-point
+
